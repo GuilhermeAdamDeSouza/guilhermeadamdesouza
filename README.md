@@ -6,7 +6,6 @@
 
 ###
 
-<p align="left">- MySQL, php admin<br>- Linux</p>
 
 ###
 
